@@ -3,4 +3,4 @@ sugar
 butter
 apples 
 cinnamon
-
+salt
